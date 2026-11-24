@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://raw.githubusercontent.com/m4n1c0des/m4n1c0des/output/github-contribution-grid-snake-dark.svg" />
 </p>
+<img src="./assets/banner.png" alt="Profile banner" width="100%">
+<img src="./assets/avatar.png" alt="Profile avatar" width="128">
