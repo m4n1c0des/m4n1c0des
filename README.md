@@ -39,3 +39,17 @@ Here are some ideas to get you started:
 </p>
 <img src="./assets/banner.png" alt="Profile banner" width="100%">
 <img src="./assets/avatar.png" alt="Profile avatar" width="128">
+<img
+  src="https://raw.githubusercontent.com/m4n1c0des/m4n1c0des/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub contribution snake"
+>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/m4n1c0des/m4n1c0des/output/github-contribution-grid-snake-dark.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/m4n1c0des/m4n1c0des/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  >
+</picture>
