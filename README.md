@@ -1,3 +1,16 @@
+<div align="center">
+
+<img src="assets/banner.png" width="100%" />
+
+# m4n1c0des
+
+### BSCS Student | Software Developer
+
+**Turn Ideas into Impact.**
+
+Code • Learn • Build • Innovate
+
+</div>
 ## Hi there 👋
 
 <!--
@@ -14,3 +27,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4n1c0des&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1c0des&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=m4n1c0des&theme=tokyonight&hide_border=true)
