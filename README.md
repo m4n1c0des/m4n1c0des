@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1c0des&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=m4n1c0des&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m4n1c0des/m4n1c0des/output/github-contribution-grid-snake-dark.svg" />
+</p>
